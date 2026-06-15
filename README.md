@@ -64,13 +64,13 @@ The workflow mirrors a real-world analytics process, from data generation and st
 ![Dashboard Page 1](screenshots/DASHBO~1.JPG)
 
 ### Page 2
-![Dashboard Page 2](screenshots/Dashboard_Page_2.jpg)
+![Dashboard Page 2](screenshots/DASHBO~2.JPG)
 
 ### Page 3
-![Dashboard Page 3](screenshots/Dashboard_Page_3.jpg)
+![Dashboard Page 3](screenshots/DASHBO~3.JPG)
 
 ### Page 4
-![Dashboard Page 4](screenshots/Dashboard_Page_4.jpg)
+![Dashboard Page 4](screenshots/DASHBO~4.JPG)
 
 ### Page 5
-![Dashboard Page 5](screenshots/Dashboard_Page_5.jpg)
+![Dashboard Page 5](screenshots/DA67C7~1.JPG)
