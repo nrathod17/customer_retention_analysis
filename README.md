@@ -61,7 +61,7 @@ The workflow mirrors a real-world analytics process, from data generation and st
 ## Dashboard Preview
 
 ### Page 1
-![Dashboard Page 1](screenshots/Dashboard_Page_1.jpg)
+![Dashboard Page 1](screenshots/DASHBOARD_PAGE_1.jpg)
 
 ### Page 2
 ![Dashboard Page 2](screenshots/Dashboard_Page_2.jpg)
